@@ -1,0 +1,6 @@
+interface:
+  display_name: "B2B Sales Intelligence"
+  short_description: "Use public evidence to decide B2B sales opportunities"
+  default_prompt: "Use $b2b-sales-intelligence to evaluate whether my product can be sold to a named customer."
+policy:
+  allow_implicit_invocation: true
